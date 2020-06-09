@@ -7,12 +7,10 @@ This console app allows:
 4. (D)elete tasks
 
 # Install dependencies
-`
-npm install
-`
+* `npm install`
 
 # Usage
+* `node app listar`<br />
 * `node app crear -d "Have a nice day and be awesome!"`<br />
 * `node app actualizar -d "Have a nice day and be awesome!" --completar true `<br />
 * `node app borrar -d "Have a nice day and be awesome!" `<br />
-* `node app listar`<br />
