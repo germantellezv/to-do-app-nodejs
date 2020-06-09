@@ -6,3 +6,15 @@ This console app allows:
 3. (U)pdate tasks
 4. (D)elete tasks
 
+# Install dependencies
+`
+npm install
+`
+
+# Usage
+`
+node app crear -d "Have a nice day and be awesome!"
+node app actualizar -d "Have a nice day and be awesome!" --completar true
+node app borrar -d "Have a nice day and be awesome!"
+node app listar
+`
