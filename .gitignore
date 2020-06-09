@@ -1,3 +1,6 @@
+# Dev Database
+database/data.json
+
 # Logs
 logs
 *.log
